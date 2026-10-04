@@ -353,6 +353,6 @@ vm-vs-container-performance/
 
 # 17. Name and USN
 
-**Name:** Anupriya Savant
+**Name:** SAHANA AWARADI
 
-**USN:** 01FE24BCI046
+**USN:** 01FE24BCI030
